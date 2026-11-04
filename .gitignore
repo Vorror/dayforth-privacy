@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# Jekyll (local preview builds)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# Editors
+.vscode/
+.idea/
+*.swp
